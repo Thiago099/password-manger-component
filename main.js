@@ -1,6 +1,6 @@
 const app = document.querySelector('#app')
 
-import { appendCredentials } from './credentials'
+import { appendCredentials } from './credentials/credentials'
 
 appendCredentials(
   app,
